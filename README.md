@@ -76,17 +76,3 @@ Explore the full notebook, source code, and interactive visualizations:
 **🔧 [GitHub Repository Link](https://github.com/your-username/your-repo-name)**
 
 ---
-
-## 👨‍💻 Role Relevance
-
-This project demonstrates competencies ideal for:
-
-- **Data Analysts**
-- **BI Developers**
-- **Reporting Analysts**
-- **Insight & Strategy Roles**
-
-It reflects proficiency in data wrangling, visualization, and storytelling that supports data-informed decision-making in business contexts.
-
----
-
